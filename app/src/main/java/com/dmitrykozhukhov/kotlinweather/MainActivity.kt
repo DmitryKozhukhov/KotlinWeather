@@ -2,6 +2,7 @@ package com.dmitrykozhukhov.kotlinweather
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dmitrykozhukhov.kotlinweather.ui.details.DetailsFragment
 import com.dmitrykozhukhov.kotlinweather.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
